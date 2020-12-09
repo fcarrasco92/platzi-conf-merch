@@ -7,3 +7,5 @@ fileignoreconfig:
   checksum: 78fd1d1603d4938b24fec619fc25b22db75689f4982eb831174161dd9e920159
 - filename: package-lock.json
   checksum: 3f6e35f5484fd0fe2aa1d366ed137ebadc3971ba1c6c9f5a023f366b30b6df6a
+- filename: src/components/Products.jsx
+  checksum: cc1bb8106e64a42eb8e2d21badd3d9ccca7902c7816816f8c806b6d879fec4c8
